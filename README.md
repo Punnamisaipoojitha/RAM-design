@@ -23,3 +23,11 @@ The final deliverables for this project include the Verilog source code for the 
 
 *OUTPUT* :
 
+<img width="754" alt="Image" src="https://github.com/user-attachments/assets/f9c92dc5-538a-4adb-8217-a599d07cd634" />
+
+<img width="784" alt="Image" src="https://github.com/user-attachments/assets/4ffc3666-68ec-4d89-93ae-54989c5a47ef" />
+
+<img width="785" alt="Image" src="https://github.com/user-attachments/assets/625c5972-68cb-4b17-927a-1ae08f729474" />
+
+<img width="786" alt="Image" src="https://github.com/user-attachments/assets/d75bb37b-e2b3-4265-9895-4def992685f2" />
+
